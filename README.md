@@ -1,10 +1,14 @@
 ## Resources Used
 
 How to store data in the browser session: https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+
 Material UI documentation: https://material-ui.com/components/container/
+
 Building a Nav Bar in material UI: https://ansonlowzf.com/how-to-build-a-material-ui-navbar/
+
 useEffect: How to have an event fire only once: https://reactjs.org/docs/hooks-reference.html#useeffect
- - How to listen for the (image) paste event: https://www.pluralsight.com/guides/event-listeners-in-react-components
+
+ -- How to listen for the (image) paste event: https://www.pluralsight.com/guides/event-listeners-in-react-components
 
 ### SPA
 
